@@ -10,4 +10,4 @@ Sorting algorithms and benchmarks implemented in C.
 
 - quick sort
 
-- backet sort
+- bucket sort
